@@ -70,3 +70,4 @@ Git-Logo.png
 *.png
 *.jpg
 ```
+## 9. Создание веток в Git
