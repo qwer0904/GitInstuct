@@ -62,3 +62,4 @@ git checkout
 ```
 git checkout 35bff35
 ```
+## 8. Игнорирование файлов
